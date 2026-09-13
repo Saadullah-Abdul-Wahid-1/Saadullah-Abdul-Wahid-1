@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Cybersecurity profile banner">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#50F727"/>
+      <stop offset="50%" stop-color="#00ff9d"/>
+      <stop offset="100%" stop-color="#50F727"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#50F727" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" rx="22" fill="#050807"/>
+  <rect x="1" y="1" width="1198" height="328" rx="21" fill="url(#grid)" stroke="#50F727" stroke-opacity=".55"/>
+
+  <!-- terminal header -->
+  <rect x="28" y="24" width="1144" height="38" rx="10" fill="#0b120e" stroke="#50F727" stroke-opacity=".2"/>
+  <circle cx="51" cy="43" r="6" fill="#50F727"/>
+  <circle cx="71" cy="43" r="6" fill="#50F727" fill-opacity=".55"/>
+  <circle cx="91" cy="43" r="6" fill="#50F727" fill-opacity=".3"/>
+  <text x="112" y="48" fill="#9ab7a0" font-family="monospace" font-size="14">root@codensec:~$ ./profile --mode=red-team</text>
+
+  <text x="60" y="122" fill="url(#g)" filter="url(#glow)" font-family="monospace" font-size="42" font-weight="700">SAADULLAH ABDUL WAHID</text>
+  <text x="62" y="155" fill="#d8e7dc" font-family="monospace" font-size="18">Founder &amp; CEO @ CodenSec  •  Red Teamer  •  Full-Stack Developer</text>
+
+  <text x="62" y="201" fill="#50F727" font-family="monospace" font-size="16">$ whoami</text>
+  <text x="62" y="228" fill="#b9cfc0" font-family="monospace" font-size="15">Security-focused builder crafting offensive tooling, web systems</text>
+  <text x="62" y="250" fill="#b9cfc0" font-family="monospace" font-size="15">and practical red-team automation for authorized environments.</text>
+
+  <text x="62" y="292" fill="#50F727" font-family="monospace" font-size="15">[ CEH v13 ]</text>
+  <text x="190" y="292" fill="#7f9c87" font-family="monospace" font-size="15">[ Python ] [ Linux ] [ Web ] [ Offensive Security ]</text>
+
+  <path d="M1020 93 L1140 93 L1140 213 L1080 273 L1020 213 Z" fill="none" stroke="#50F727" stroke-opacity=".18"/>
+  <path d="M1052 123 L1108 123 L1108 199 L1080 227 L1052 199 Z" fill="none" stroke="#50F727" stroke-opacity=".35"/>
+  <circle cx="1080" cy="165" r="9" fill="#50F727" opacity=".85" filter="url(#glow)"/>
+</svg>
