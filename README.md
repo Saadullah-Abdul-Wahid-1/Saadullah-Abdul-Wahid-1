@@ -80,7 +80,6 @@ My work combines **Python, Linux, web technologies, and security engineering** t
 <div align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/E34F26" width="50" alt="HTML5"></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css3/1572B6" width="50" alt="CSS3"></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" alt="JavaScript"></a>&nbsp;
 <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="50" alt="React"></a>&nbsp;
 <a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" alt="Node.js"></a>&nbsp;
