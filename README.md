@@ -2,7 +2,7 @@
 
 # Saadullah Abdul Wahid
 
-### Founder & CEO @ CodenSec · Red Teamer · CEH v13 Certified
+### Founder & CEO @ CodenSec · Red Teamer · CEH v13 . CRTA
 
 <table>
 <tr>
