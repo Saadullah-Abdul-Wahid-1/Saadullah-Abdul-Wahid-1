@@ -49,7 +49,7 @@ offensive-security • research • engineering
 NAME        : Saadullah Abdul Wahid
 ROLE        : Founder & CEO @ CodenSec
 SECURITY    : Red Teaming / Offensive Security
-CERTIFIED   : CEH v13
+CERTIFIED   : CEH v13 . CRTA
 ENGINEERING : Full-Stack Development
 RESEARCH    : Security Research & Tool Development
 AUTOMATION  : Python / Linux / Scripting
